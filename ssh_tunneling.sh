@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 read -p 'Enter the CAPAM port number: ' capam_port
 read -p 'Enter your username: ' username
 
